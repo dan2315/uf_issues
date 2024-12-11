@@ -1,2 +1,7 @@
-# uf_issues
-Unreal Frontiers Issue Tracker
+# Unreal Frontiers Issue Tracker
+
+Ку! Этот репозиторий создан исключительно для отслеживания задач, отчетов об ошибках и предложений.
+
+Вебсайт проекта: [Unreal Frontiers](https://example.com)
+
+Спасибо за ваш вклад и поддержку проекта!
